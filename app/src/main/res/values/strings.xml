@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">hello,kotlin</string>
+    <string name="text_message">どっち？</string>
+    <string name="text_message_cat">ニャーニャー!</string>
+    <string name="text_message_dog">イヌヌワン</string>
+    <string name="button_text_cat">🐱</string>
+    <string name="button_text_dog">🐶</string>
+</resources>
